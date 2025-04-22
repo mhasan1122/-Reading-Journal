@@ -114,8 +114,3 @@ Then open a pull request. 💬
 
 Made with ❤️ by **Mirza Hasan**
 
-For suggestions, ideas, or feedback — feel free to reach out via GitHub Issues or [email/contact info if applicable].
-
----
-
-Let me know if you want this formatted for a specific theme (like GitHub Pages), want help with a logo, or need badges added (e.g., build status, license, etc.).
