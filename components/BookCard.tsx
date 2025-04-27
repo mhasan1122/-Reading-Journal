@@ -8,6 +8,8 @@ interface BookCardProps {
   onPress: () => void;
 }
 
+
+
 const statusBackgroundColors: Record<string, string> = {
   'To Read': '#BFDBFE',    // bg-blue-200
   Reading: '#FDE68A',       // bg-yellow-200
@@ -57,6 +59,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.05,
     shadowRadius: 4,
     elevation: 2,
+
   },
   row: {
     flexDirection: 'row',
