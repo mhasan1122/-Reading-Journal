@@ -1,11 +1,11 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-import { HomeScreen } from '../my-expo-app/screens/HomeScreen';
-import { AddEditBookScreen } from '../my-expo-app/screens/AddEditBookScreen';
-import { BookDetailScreen } from '../my-expo-app/screens/BookDetailScreen';
+import { HomeScreen } from './screens/HomeScreen';
+import { AddEditBookScreen } from './screens/AddEditBookScreen';
+import { BookDetailScreen } from './screens/BookDetailScreen';
 import { StatusBar } from 'expo-status-bar';
-import { BooksProvider } from '../my-expo-app/hooks/useBooks';
+import { BooksProvider } from './hooks/useBooks';
 
 
 
